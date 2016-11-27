@@ -2,3 +2,4 @@
 sleep(0.2);
 echo '123';
 echo '456';
+echo '789';
